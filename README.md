@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=008080&text=Barani%20C" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=008080&text=BARANI%20C" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Eager+to+learn+new+Technologies;Passionate+about+learning+and+coding" alt="Typing SVG" />
 
